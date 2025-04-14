@@ -15,3 +15,4 @@ Assicurati di avere Python 3 installato, poi esegui:
 
 ```bash
 python main.py
+
